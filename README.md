@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anjali 👋
 
-<!--
-**anjali-cse23/anjali-cse23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student interested in Artificial Intelligence and Machine Learning. I enjoy building practical projects and learning how AI/ML can be applied to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- Python
+- Machine Learning
+- NumPy
+- Pandas
+- SQL
+- Flask
+- Linux
+- Git & GitHub
+
+### 📌 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- SQL
+
+### 🚀 Projects
+
+- AI Resume Analyzer
+- Spam Email Detection
+- Alzheimer Disease Risk Prediction
+- AI Real-Time Gym Trainer
+
+### 🎯 Goals
+
+To strengthen my AI/ML skills by building practical projects and gaining industry experience.
+
+### 📫 Connect with me
+
+- LinkedIn: [ My Linkedin Profile](https://www.linkedin.com/in/anjali-a-61208237a)
